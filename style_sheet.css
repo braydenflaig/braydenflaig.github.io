@@ -1,5 +1,6 @@
 
 .header{
+	display:inline-block;
 	margin-left:0px;
 	margin-top:0px;
 	margin-bottom: 5px;
@@ -10,6 +11,7 @@
 }
 
 .footer{
+	display:inline-block;
 	margin-left:0px;
 	margin-top:5px;
 	width:100%;
@@ -33,5 +35,12 @@
 .iconContainer{
 	padding-top: 300px;
 	text-align: center;
+}
+
+.body_div{
+	display:inline-block;
+	color:#FFFCDB;
+	position: relative;
+	top:180px;
 }
 
