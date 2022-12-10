@@ -7,3 +7,9 @@
 	margin:0;
 	position:absolute;
 }
+
+.background{
+	padding:0px;
+	margin: 0px;
+	background-color:#746E60; 
+}
