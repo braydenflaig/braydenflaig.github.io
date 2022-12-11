@@ -122,10 +122,11 @@ table, th, td {
 	vertical-align: top;
 }
 
-#title_name{
+h1{
+	margin:10px;
 	font-size: 100px;
 	color:#fffcdc;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 #bio_section{
@@ -134,4 +135,16 @@ table, th, td {
 	color:#fffcdc;
 	height: 500px;
 	width: 700px;
+}
+
+.center{
+	display: block;
+	width:50%;
+	background-color:#3b2040; 
+	margin-left:auto;
+	margin-right:auto;
+}
+.list{
+	margin-bottom:30px;
+	font-size:35px;
 }
