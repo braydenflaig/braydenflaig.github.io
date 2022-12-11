@@ -109,3 +109,29 @@ table, th, td {
 	color:#3b2040;
 	background-color:#fffcdc;
 }
+
+#image_placement{
+	display:inline-block;
+	margin-top: 150px;
+	margin-bottom: 0px;
+}
+
+#Section{
+	margin-top: 150px;
+	display:inline-block;
+	vertical-align: top;
+}
+
+#title_name{
+	font-size: 100px;
+	color:#fffcdc;
+	margin-bottom: 20px;
+}
+
+#bio_section{
+	margin-top:0px;
+	font-size: 20px;
+	color:#fffcdc;
+	height: 500px;
+	width: 700px;
+}
