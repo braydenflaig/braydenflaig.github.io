@@ -1,4 +1,4 @@
-
+/* styles for the header/banner of all the pages */
 .header{
 	width:100%;
 	height: 180px;
@@ -6,6 +6,7 @@
 	top:0;
 }
 
+/* styles for the footer of all the pages */
 .footer{
 	display:inline-block;
 	margin-left:0px;
@@ -16,30 +17,33 @@
 	position:fixed;
 	bottom:0px;
 }
-
+/* style for the whole page background */
 .background{
 	padding:0px;
 	margin: 0px;
 	background-color:#746E60; 
 }
 
+/*style for the Icons on other links page*/
 .iconImage{
 	margin: 50px;
 }
 
+/*containter for the icons*/
 .iconContainer{
 	padding-top: 300px;
 	text-align: center;
 }
 
+/*keep the main body below the header*/
 .body_div{
-	
 	color:#FFFCDB;
 	position: relative;
 	top:180px;
 	margin-bottom: 300px;
 }
 
+/*table styles*/
 table, th, td {
     border:2px solid #FFFCDB;
 	padding:10px;
@@ -47,6 +51,7 @@ table, th, td {
 	font-size: 40px;
 }
 
+/*additional table style to center the whole thing*/
 .table{
 	margin-left:auto;
 	margin-right:auto;
@@ -54,6 +59,7 @@ table, th, td {
 	width:1600px;
 }
 
+/* style for the portfolio link on art page*/
 .port_link{
 	margin-left:100px;
 	text-align: center;
@@ -61,7 +67,7 @@ table, th, td {
 	margin-bottom:300px;
 	font-size: 40px;
 }
-
+/*style for the for on the contact me page*/
 .form{
 	display: block;	
 	padding:20px;
@@ -75,12 +81,13 @@ table, th, td {
 	background-color:#3b2040 
 }
 
+/*styles for the input fields on the forms*/
 .input{
 	font-size:25px;
 	width:480px;
 	height:40px;
 }
-
+/*game image alien escape*/
 .game1{
 	margin-top:100px;
 	margin-left:10px;
@@ -88,6 +95,7 @@ table, th, td {
 	vertical-align: top;
 }
 
+/*style for for the game title*/
 #game_title{
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -95,33 +103,38 @@ table, th, td {
 	color:#fffcdc;
 }
 
+/* game 2 grow for glory*/
 #game2{
 	margin-bottom: 300px;
 }
 
+/*style for the go play game button*/
 .game_button{
 	font-size: 30px;
 	color:#fffcdc;
 	background-color:#3b2040;
 }
 
+/*hover style for the go play buttons*/
 .game_button:hover{
 	color:#3b2040;
 	background-color:#fffcdc;
 }
 
+/*for placeing the logo on the home page correctly*/
 #image_placement{
 	display:inline-block;
 	margin-top: 150px;
 	margin-bottom: 0px;
 }
-
+/*style to seperate the logo and the bio section*/
 #Section{
 	margin-top: 150px;
 	display:inline-block;
 	vertical-align: top;
 }
 
+/*stlye for the header on the resume page*/
 h1{
 	margin:10px;
 	font-size: 100px;
@@ -129,6 +142,7 @@ h1{
 	margin-bottom: 10px;
 }
 
+/*style for the bio secion on the home page*/
 #bio_section{
 	margin-top:0px;
 	font-size: 20px;
@@ -137,6 +151,7 @@ h1{
 	width: 700px;
 }
 
+/*sytle to center items*/
 .center{
 	display: block;
 	width:50%;
@@ -144,6 +159,8 @@ h1{
 	margin-left:auto;
 	margin-right:auto;
 }
+
+/* styles for list items*/ 
 .list{
 	margin-bottom:30px;
 	font-size:35px;
